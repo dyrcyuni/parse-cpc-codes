@@ -1,0 +1,29 @@
+011..  ->  Cereals
+012..  ->  Vegetables
+014..  ->  Vegetables
+015..  ->  Vegetables
+0131.  ->  Fruits
+0132.  ->  Fruits
+0133.  ->  Fruits
+0134.  ->  Fruits
+0135.  ->  Fruits
+0136.  ->  Nuts
+0137.  ->  Nuts
+016..  ->  Coffee, tea, & spices
+017..  ->  Legumes
+02...  ->  Raw eggs & milk
+04...  ->  Raw seafood
+211..  ->  Meat
+212..  ->  Seafood
+213..  ->  Preserved vegetables, fruit, & nuts
+214..  ->  Preserved vegetables, fruit, & nuts
+215..  ->  Oil, fat, & margarine
+216..  ->  Oil, fat, & margarine
+217..  ->  Oil, fat, & margarine
+22...  ->  Dairy & non-raw eggs
+23...  ->  Processed grains, starches, incl. bread
+241..  ->  Alcoholic beverages
+242..  ->  Alcoholic beverages
+243..  ->  Alcoholic beverages
+244..  ->  Non-alcoholic beverages
+.....  ->  N/A
